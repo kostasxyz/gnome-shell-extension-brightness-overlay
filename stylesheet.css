@@ -1,0 +1,14 @@
+.screen-overlay-actor {
+    font-size: 1px;
+    color: #fff;
+    background-color: #000;
+    border-radius: 0px;
+    padding: .5em;
+}
+
+.brightness-overlay-icon {
+	height: 19px;
+	width: 16px;
+	background: url('icon.png') center no-repeat;
+    background-size: contain;
+}

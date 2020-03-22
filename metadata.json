@@ -1,0 +1,15 @@
+{
+    "description": "Adds an overlay on monitors with adjustable opacity",
+    "name": "Brightness Overlay",
+    "shell-version": [
+        "3.24", 
+        "3.26", 
+        "3.28", 
+        "3.30", 
+        "3.34", 
+        "3.32"
+    ],
+    "url": "https://github.com/skapator/gnome-shell-extension-brightness-overlay",
+    "uuid": "brightness-overlay@code42.xyz",
+    "version": 1
+}
